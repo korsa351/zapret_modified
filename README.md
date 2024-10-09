@@ -8,7 +8,7 @@
 
 ## Быстрый старт
 
-Скачать архив: https://github.com/korsa351/zapret_modified/releases/download/untagged-f151d3beafb48903e22e/zapret_modified-main.zip
+Скачать архив: https://github.com/korsa351/zapret_modified/releases/download/releases/zapret_modified-main.zip
 
 ### exe
 1. Запустить файл /zapret-winws/preset_russia.cmd
